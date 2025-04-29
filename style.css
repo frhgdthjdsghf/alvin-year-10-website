@@ -29,13 +29,24 @@ hr {
   color: white;
 }
 
-img {
-  height: 50px;
-}
-
 .image-container {
   display: flex;
   justify-content: center;
   align-items: center;
   justify-content: space-around;
 }
+
+.bold { 
+  font-weight: bold; 
+  }
+
+  .icon {
+    height: 50px;
+  }
+
+  .display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+  }
