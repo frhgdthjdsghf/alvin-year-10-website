@@ -54,8 +54,8 @@ hr {
   .DeliverHeightChange {
     height: 500px;
   }
-  
+
   img {
-    max-width: 100%;
+    max-width: 1000000e%;
     height: auto;
     }
